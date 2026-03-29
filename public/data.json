@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "playesName": "Shakib Al Hasan",
+    "playesJCountry": "Bangladesh",
+    "playesType": "All-rounder",
+    "rating": 9.2,
+    "price": 1200000,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "playesImage": "https://i.ibb.co/6yX908j/shakib.jpg"
+  },
+  {
+    "id": 2,
+    "playesName": "Virat Kohli",
+    "playesJCountry": "India",
+    "playesType": "Batsman",
+    "rating": 9.8,
+    "price": 1500000,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "playesImage": "https://i.ibb.co/mS7zS7p/kohli.jpg"
+  },
+  {
+    "id": 3,
+    "playesName": "Rashid Khan",
+    "playesJCountry": "Afghanistan",
+    "playesType": "Bowler",
+    "rating": 9.5,
+    "price": 1350000,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "playesImage": "https://i.ibb.co/vYm0S2H/rashid.jpg"
+  },
+  {
+    "id": 4,
+    "playesName": "Babar Azam",
+    "playesJCountry": "Pakistan",
+    "playesType": "Batsman",
+    "rating": 9.4,
+    "price": 1300000,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playesImage": "https://i.ibb.co/fN8S4q7/babar.jpg"
+  },
+  {
+    "id": 5,
+    "playesName": "Ben Stokes",
+    "playesJCountry": "England",
+    "playesType": "All-rounder",
+    "rating": 9.0,
+    "price": 1100000,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "playesImage": "https://i.ibb.co/pLzX9H8/stokes.jpg"
+  },
+  {
+    "id": 6,
+    "playesName": "Glenn Maxwell",
+    "playesJCountry": "Australia",
+    "playesType": "All-rounder",
+    "rating": 8.8,
+    "price": 950000,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playesImage": "https://i.ibb.co/Xz9tH6M/maxwell.jpg"
+  },
+  {
+    "id": 7,
+    "playesName": "Mustafizur Rahman",
+    "playesJCountry": "Bangladesh",
+    "playesType": "Bowler",
+    "rating": 8.5,
+    "price": 800000,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "playesImage": "https://i.ibb.co/f2P6V3S/mustafiz.jpg"
+  },
+  {
+    "id": 8,
+    "playesName": "Kane Williamson",
+    "playesJCountry": "New Zealand",
+    "playesType": "Batsman",
+    "rating": 9.3,
+    "price": 1250000,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playesImage": "https://i.ibb.co/yN1S3zP/kane.jpg"
+  },
+  {
+    "id": 9,
+    "playesName": "Jasprit Bumrah",
+    "playesJCountry": "India",
+    "playesType": "Bowler",
+    "rating": 9.7,
+    "price": 1450000,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "playesImage": "https://i.ibb.co/Y8S9z5M/bumrah.jpg"
+  },
+  {
+    "id": 10,
+    "playesName": "Quinton de Kock",
+    "playesJCountry": "South Africa",
+    "playesType": "Wicketkeeper-Batsman",
+    "rating": 8.9,
+    "price": 900000,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "N/A",
+    "playesImage": "https://i.ibb.co/Qv9S8H2/dekock.jpg"
+  }
+]

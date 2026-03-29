@@ -8,7 +8,7 @@
     "price": 1200000,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Slow left-arm orthodox",
-    "playesImage": "https://i.ibb.co/6yX908j/shakib.jpg"
+    "playesImage": "https://media.crictracker.com/web/large/media/attachments/1696748634550_Shakib-Al-Hasan.webp"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "price": 1500000,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "playesImage": "https://i.ibb.co/mS7zS7p/kohli.jpg"
+    "playesImage": "https://media.crictracker.com/web/large/media/attachments/1696748634550_Shakib-Al-Hasan.webp"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "price": 1350000,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
-    "playesImage": "https://i.ibb.co/vYm0S2H/rashid.jpg"
+    "playesImage": "https://media.crictracker.com/web/large/media/attachments/1696748634550_Shakib-Al-Hasan.webp"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "price": 1300000,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "playesImage": "https://i.ibb.co/fN8S4q7/babar.jpg"
+    "playesImage": "https://media.crictracker.com/web/large/media/attachments/1696748634550_Shakib-Al-Hasan.webp"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "price": 1100000,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
-    "playesImage": "https://i.ibb.co/pLzX9H8/stokes.jpg"
+    "playesImage": "https://media.crictracker.com/web/large/media/attachments/1696748634550_Shakib-Al-Hasan.webp"
   },
   {
     "id": 6,
@@ -63,18 +63,7 @@
     "price": 950000,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "playesImage": "https://i.ibb.co/Xz9tH6M/maxwell.jpg"
-  },
-  {
-    "id": 7,
-    "playesName": "Mustafizur Rahman",
-    "playesJCountry": "Bangladesh",
-    "playesType": "Bowler",
-    "rating": 8.5,
-    "price": 800000,
-    "battingStyle": "Left-hand bat",
-    "bowlingStyle": "Left-arm fast-medium",
-    "playesImage": "https://i.ibb.co/f2P6V3S/mustafiz.jpg"
+    "playesImage": "https://media.crictracker.com/web/large/media/attachments/1696748634550_Shakib-Al-Hasan.webp"
   },
   {
     "id": 8,
@@ -85,7 +74,7 @@
     "price": 1250000,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "playesImage": "https://i.ibb.co/yN1S3zP/kane.jpg"
+    "playesImage": "https://media.crictracker.com/web/large/media/attachments/1696748634550_Shakib-Al-Hasan.webp"
   },
   {
     "id": 9,
@@ -96,7 +85,7 @@
     "price": 1450000,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "playesImage": "https://i.ibb.co/Y8S9z5M/bumrah.jpg"
+    "playesImage": "https://media.crictracker.com/web/large/media/attachments/1696748634550_Shakib-Al-Hasan.webp"
   },
   {
     "id": 10,
@@ -107,6 +96,6 @@
     "price": 900000,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "N/A",
-    "playesImage": "https://i.ibb.co/Qv9S8H2/dekock.jpg"
+    "playesImage": "https://media.crictracker.com/web/large/media/attachments/1696748634550_Shakib-Al-Hasan.webp"
   }
 ]
